@@ -1,6 +1,22 @@
 
 .bgimg{
-    background-color: aquamarine;
+    background-image: url("../imgs/Hero.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
 }
+
+.explore-world{
+    margin-top: 8rem;
+}
+
+.bgcityimg{
+    background-image: url("../imgs/bgcity.png");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
 
 
