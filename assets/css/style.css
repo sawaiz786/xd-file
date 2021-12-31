@@ -15,4 +15,11 @@
   background-repeat: no-repeat;
   background-size: contain;
 }
+
+.bgcity2img {
+  background-image: url("../imgs/bgcity2.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
 /*# sourceMappingURL=style.css.map */
